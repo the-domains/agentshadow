@@ -1,0 +1,28 @@
+name: 'AgentShadow '
+favicon: null
+layout_spectrum: 0.06624066410586238
+typography_spectrum: 0.5110270101577044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8292927250731736
+  lightness: 0.6612111122813076
+  saturation: 0.5052190870046616
+  rhythmicContrast: 0.042115374468266964
+purpose: []
